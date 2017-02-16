@@ -1,0 +1,63 @@
+section.one-column {
+    /*margin-top:30px;*/
+}
+
+article.main-content.one-column {
+    width:100%;
+    height:870px;
+    padding:0;
+    background-color:transparent;
+    background-image: url(../images/gallery/b807c2282ab0a491bd5c5c1051c6d312_rP0kQjJ.jpg);
+    background-size: 1920px 1080px;
+}
+
+div.login-form {
+    padding:20px;
+    width:300px;
+    height:250px;
+    background-color:orange;
+    margin:90px auto 0;
+    border-radius:7px;
+}
+
+input.login-input {
+    width:100%;
+    padding:5px 2px;
+    border-radius:5px;
+    margin:7px 0;
+    
+}
+h1.login-h1 {
+    margin-bottom:10px;
+}
+
+#btn-login {
+    padding:5px 10px;
+    border-radius:7px;
+    background-color:grey;
+    color:black;
+}
+
+#btn-login:Hover {
+    padding:5px 10px;
+    border-radius:7px;
+    background-color:white;
+    color:black;
+}
+
+#btn-login:Active {
+    padding:5px 10px;
+    border-radius:7px;
+    background-color:grey;
+    color:black;
+}
+
+
+#error-message {
+    <!--display:none;-->
+    padding:2px;
+    width:100%;
+    margin-top: 10px;
+    color:red;
+    background-color:black;
+}
